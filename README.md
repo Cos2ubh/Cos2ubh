@@ -1,6 +1,7 @@
 <h1 align="center">Hii👋, I'm Kaustubh</h1>
 <h2 align="center">Just another developer from India.</h2>
 
+- 🌱 Have done Full Stack in WebDev.
 - 🌱 I’m currently learning **DSA.**
 
 <h3 align="left">Connect with me:</h3>
