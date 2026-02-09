@@ -2,7 +2,8 @@
 <h2 align="center">Just another developer from India.</h2>
 
 - 🌱 Have done Full Stack in WebDev.
-- 🌱 I’m currently learning **DSA.**
+- 🌱 DSA
+- 🌱 Learning Flutter and Working on app dev.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
